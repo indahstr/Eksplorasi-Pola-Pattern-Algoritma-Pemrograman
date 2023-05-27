@@ -6,11 +6,11 @@ Project ini merupakan hasil eksplorasi untuk membuat pola menggunakan bahasa pem
 
 ## Preview
 
-Pola 1 : Battery Charging
+Pola 1 : Battery Charging  
 ![Preview Battery Charging](Battery.gif)
 
 
-Pola 2 : Moon
+Pola 2 : Moon  
 ![Preview Moon](Moon.jpg)
 
 
